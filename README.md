@@ -12,8 +12,8 @@ A zone icon alone does not tell you when animals use the area or how often they 
 
 ## Download & Install
 
-You can download the mod from my website: [Better Need Zones](https://mahpella.com/games/way-of-the-hunter/mods/need-zone-marker)
-or Nexus Mods: [Better Need Zones](https://www.nexusmods.com/wayofthehunter/mods/31)
+You can download the mod from my [Website](https://mahpella.com/games/way-of-the-hunter/mods/need-zone-marker)
+or [Nexus Mods](https://www.nexusmods.com/wayofthehunter/mods/31)
 
 **Installation guide**
 
