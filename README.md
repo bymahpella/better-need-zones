@@ -31,10 +31,6 @@ Close the game. In Steam, browse the local files for Way of the Hunter and open:
 Extract the archive and copy all **.pak files into the Paks folder**, replacing older versions if necessary.  
 Launch the game and load your save.
 
-Install both `WOTH_NeedZoneMarkers_1_P.pak` and `WOTH_MapInterface_P.pak`. Remove the old combined `WOTH_NeedZoneClarity_P.pak` and obsolete `WOTH_NeedZoneMarkers_P.pak` if present. When using Herd Tracker, keep one copy of the shared MapInterface file from this archive. Mod Settings Core and an additional loader are not required. Other mods overriding the same map widgets may conflict; older Herd Notes packages can override the corrected interface.
-
-This prepared release includes the accepted long-distance marker placement correction. The distance-limit sentence in the retained ZIP README describes the earlier build; the usual waypoint count and visibility rules still apply.
-
 ## How to Use
 
 - Hover over a discovered feeding, drinking, or resting zone on the map.
